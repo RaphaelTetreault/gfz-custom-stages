@@ -3451,7 +3451,7 @@ COLLIDER DATA
 				Unk0x00: renderObject, unk_RenderObject1, unk_RenderObject2, unk_RenderObject3, hasTextureScroll0, ReceiveEfbShadow
 				Unk0x04: _NULL
 				TransformTRXS
-					Position: float3(629.9167f, 22.67886f, -204.7781f)
+					Position: float3(890.787f, 97.22498f, 701.1442f)
 					Rotation: float3(0f, 0f, 0f)
 					Scale: float3(1.000001f, 1f, 1.000001f)
 					unknownOption: None
@@ -3477,18 +3477,18 @@ COLLIDER DATA
 					[11] TextureScrollField(u: 0, v: 0)
 				SkeletalAnimator (null)
 				TransformMatrix3x4
-					Position(float3(629.9167f, 22.67886f, -204.7781f))
-					Rotation(float3(-177.643f, -21.93738f, 133.188f))
-					Scale(float3(1.000001f, 1f, 1.000002f))
+					Position(float3(890.787f, 97.22498f, 701.1442f))
+					Rotation(float3(176.591f, 23.56769f, 132.9725f))
+					Scale(float3(1.000002f, 1f, 1.000002f))
 			SceneObjectDynamic[12]
 			SceneObjectDynamic
 				Name: DASH01_SIGN_CIRCLE_A_LOD
 				Unk0x00: renderObject, unk_RenderObject1, unk_RenderObject2, unk_RenderObject3, unk_5, unk_HideObject1, unk_HideObject2, alphaNoClipSelf, ReceiveEfbShadow
 				Unk0x04: _NULL
 				TransformTRXS
-					Position: float3(618.0707f, 40.38145f, -210.2818f)
+					Position: float3(880.36f, 115.7517f, 706.8043f)
 					Rotation: float3(0f, 0f, 0f)
-					Scale: float3(1.000001f, 0.9999999f, 1f)
+					Scale: float3(1.000001f, 1f, 1.000001f)
 					unknownOption: None
 					objectActiveOverride: None
 				SceneObject
@@ -3524,9 +3524,9 @@ COLLIDER DATA
 				Unk0x00: renderObject, unk_RenderObject1, unk_RenderObject2, unk_RenderObject3, unk_5, unk_HideObject1, unk_HideObject2, alphaNoClipSelf, ReceiveEfbShadow
 				Unk0x04: _NULL
 				TransformTRXS
-					Position: float3(618.0707f, 40.38145f, -210.2818f)
+					Position: float3(880.36f, 115.7517f, 706.8043f)
 					Rotation: float3(0f, 0f, 0f)
-					Scale: float3(1.000001f, 0.9999999f, 1f)
+					Scale: float3(1.000001f, 1f, 1.000001f)
 					unknownOption: None
 					objectActiveOverride: None
 				SceneObject
@@ -3562,7 +3562,7 @@ COLLIDER DATA
 				Unk0x00: renderObject, unk_RenderObject1, unk_RenderObject2, unk_RenderObject3, alphaNoClipSelf, hasTextureScroll0, hasTextureScroll1, ReceiveEfbShadow
 				Unk0x04: _NULL
 				TransformTRXS
-					Position: float3(629.9167f, 22.67886f, -204.7781f)
+					Position: float3(890.787f, 97.22498f, 701.1442f)
 					Rotation: float3(0f, 0f, 0f)
 					Scale: float3(1.000001f, 1f, 1.000001f)
 					unknownOption: None
@@ -3590,18 +3590,18 @@ COLLIDER DATA
 					[11] TextureScrollField(u: 0, v: 0)
 				SkeletalAnimator (null)
 				TransformMatrix3x4
-					Position(float3(629.9167f, 22.67886f, -204.7781f))
-					Rotation(float3(-177.643f, -21.93738f, 133.188f))
-					Scale(float3(1.000001f, 1f, 1.000002f))
+					Position(float3(890.787f, 97.22498f, 701.1442f))
+					Rotation(float3(176.591f, 23.56769f, 132.9725f))
+					Scale(float3(1.000002f, 1f, 1.000002f))
 			SceneObjectDynamic[15]
 			SceneObjectDynamic
 				Name: DASH01_BOARD
 				Unk0x00: renderObject, unk_RenderObject1, unk_RenderObject2, unk_RenderObject3, hasTextureScroll0, ReceiveEfbShadow
 				Unk0x04: _NULL
 				TransformTRXS
-					Position: float3(-561.0052f, 8.293636f, -210.7469f)
+					Position: float3(0.2760024f, 41.25171f, 760.4771f)
 					Rotation: float3(0f, 0f, 0f)
-					Scale: float3(1f, 1f, 1.000001f)
+					Scale: float3(1f, 0.9999999f, 1f)
 					unknownOption: None
 					objectActiveOverride: None
 				SceneObject
@@ -3625,18 +3625,18 @@ COLLIDER DATA
 					[11] TextureScrollField(u: 0, v: 0)
 				SkeletalAnimator (null)
 				TransformMatrix3x4
-					Position(float3(-561.0052f, 8.293636f, -210.7469f))
-					Rotation(float3(175.6481f, -22.91936f, 133.2277f))
-					Scale(float3(1f, 1f, 1.000001f))
+					Position(float3(0.2760024f, 41.25171f, 760.4771f))
+					Rotation(float3(16.78052f, -0.01113253f, 43.75378f))
+					Scale(float3(1f, 0.9999999f, 1f))
 			SceneObjectDynamic[16]
 			SceneObjectDynamic
 				Name: DASH01_SIGN_CIRCLE_A_LOD
 				Unk0x00: renderObject, unk_RenderObject1, unk_RenderObject2, unk_RenderObject3, unk_5, unk_HideObject1, unk_HideObject2, alphaNoClipSelf, ReceiveEfbShadow
 				Unk0x04: _NULL
 				TransformTRXS
-					Position: float3(-550.7932f, 26.91313f, -204.9996f)
+					Position: float3(0.02190089f, 62.31351f, 754.126f)
 					Rotation: float3(0f, 0f, 0f)
-					Scale: float3(1.000001f, 1f, 1.000001f)
+					Scale: float3(1f, 0.9999999f, 1f)
 					unknownOption: None
 					objectActiveOverride: None
 				SceneObject
@@ -3672,9 +3672,9 @@ COLLIDER DATA
 				Unk0x00: renderObject, unk_RenderObject1, unk_RenderObject2, unk_RenderObject3, unk_5, unk_HideObject1, unk_HideObject2, alphaNoClipSelf, ReceiveEfbShadow
 				Unk0x04: _NULL
 				TransformTRXS
-					Position: float3(-550.7932f, 26.91313f, -204.9996f)
+					Position: float3(0.02190089f, 62.31351f, 754.126f)
 					Rotation: float3(0f, 0f, 0f)
-					Scale: float3(1.000001f, 1f, 1.000001f)
+					Scale: float3(1f, 0.9999999f, 1f)
 					unknownOption: None
 					objectActiveOverride: None
 				SceneObject
@@ -3710,9 +3710,9 @@ COLLIDER DATA
 				Unk0x00: renderObject, unk_RenderObject1, unk_RenderObject2, unk_RenderObject3, alphaNoClipSelf, hasTextureScroll0, hasTextureScroll1, ReceiveEfbShadow
 				Unk0x04: _NULL
 				TransformTRXS
-					Position: float3(-561.0052f, 8.293636f, -210.7469f)
+					Position: float3(0.2760027f, 41.25171f, 760.4771f)
 					Rotation: float3(0f, 0f, 0f)
-					Scale: float3(1f, 1f, 1.000001f)
+					Scale: float3(1f, 0.9999999f, 1f)
 					unknownOption: None
 					objectActiveOverride: None
 				SceneObject
@@ -3738,9 +3738,9 @@ COLLIDER DATA
 					[11] TextureScrollField(u: 0, v: 0)
 				SkeletalAnimator (null)
 				TransformMatrix3x4
-					Position(float3(-561.0052f, 8.293636f, -210.7469f))
-					Rotation(float3(175.6481f, -22.91936f, 133.2277f))
-					Scale(float3(1f, 1f, 1.000001f))
+					Position(float3(0.2760027f, 41.25171f, 760.4771f))
+					Rotation(float3(16.78052f, -0.01113253f, 43.75378f))
+					Scale(float3(1f, 0.9999999f, 1f))
 			SceneObjectDynamic[19]
 			SceneObjectDynamic
 				Name: JAMP
@@ -3782,9 +3782,9 @@ COLLIDER DATA
 				Unk0x00: renderObject, unk_RenderObject1, unk_RenderObject2, unk_RenderObject3, hasTextureScroll0, ReceiveEfbShadow
 				Unk0x04: _NULL
 				TransformTRXS
-					Position: float3(-774.4967f, 94.87701f, 770.8711f)
+					Position: float3(-561.0052f, 8.293636f, -210.7469f)
 					Rotation: float3(0f, 0f, 0f)
-					Scale: float3(1f, 0.9999999f, 1f)
+					Scale: float3(1f, 1f, 1.000001f)
 					unknownOption: None
 					objectActiveOverride: None
 				SceneObject
@@ -3808,18 +3808,18 @@ COLLIDER DATA
 					[11] TextureScrollField(u: 0, v: 0)
 				SkeletalAnimator (null)
 				TransformMatrix3x4
-					Position(float3(-774.4967f, 94.87701f, 770.8711f))
-					Rotation(float3(-0.05853006f, 15.36073f, 46.04114f))
-					Scale(float3(1f, 0.9999999f, 0.9999999f))
+					Position(float3(-561.0052f, 8.293636f, -210.7469f))
+					Rotation(float3(175.6481f, -22.91936f, 133.2277f))
+					Scale(float3(1f, 1f, 1.000001f))
 			SceneObjectDynamic[21]
 			SceneObjectDynamic
 				Name: DASH01_SIGN_CIRCLE_A_LOD
 				Unk0x00: renderObject, unk_RenderObject1, unk_RenderObject2, unk_RenderObject3, unk_5, unk_HideObject1, unk_HideObject2, alphaNoClipSelf, ReceiveEfbShadow
 				Unk0x04: _NULL
 				TransformTRXS
-					Position: float3(-772.5308f, 116.7818f, 771.4335f)
+					Position: float3(-550.7932f, 26.91313f, -204.9996f)
 					Rotation: float3(0f, 0f, 0f)
-					Scale: float3(1f, 1f, 1f)
+					Scale: float3(1.000001f, 1f, 1.000001f)
 					unknownOption: None
 					objectActiveOverride: None
 				SceneObject
@@ -3855,9 +3855,9 @@ COLLIDER DATA
 				Unk0x00: renderObject, unk_RenderObject1, unk_RenderObject2, unk_RenderObject3, unk_5, unk_HideObject1, unk_HideObject2, alphaNoClipSelf, ReceiveEfbShadow
 				Unk0x04: _NULL
 				TransformTRXS
-					Position: float3(-772.5308f, 116.7818f, 771.4335f)
+					Position: float3(-550.7932f, 26.91313f, -204.9996f)
 					Rotation: float3(0f, 0f, 0f)
-					Scale: float3(1f, 1f, 1f)
+					Scale: float3(1.000001f, 1f, 1.000001f)
 					unknownOption: None
 					objectActiveOverride: None
 				SceneObject
@@ -3893,9 +3893,9 @@ COLLIDER DATA
 				Unk0x00: renderObject, unk_RenderObject1, unk_RenderObject2, unk_RenderObject3, alphaNoClipSelf, hasTextureScroll0, hasTextureScroll1, ReceiveEfbShadow
 				Unk0x04: _NULL
 				TransformTRXS
-					Position: float3(-774.4967f, 94.87701f, 770.8711f)
+					Position: float3(-561.0052f, 8.293636f, -210.7469f)
 					Rotation: float3(0f, 0f, 0f)
-					Scale: float3(1f, 0.9999999f, 1f)
+					Scale: float3(1f, 1f, 1.000001f)
 					unknownOption: None
 					objectActiveOverride: None
 				SceneObject
@@ -3921,16 +3921,16 @@ COLLIDER DATA
 					[11] TextureScrollField(u: 0, v: 0)
 				SkeletalAnimator (null)
 				TransformMatrix3x4
-					Position(float3(-774.4967f, 94.87701f, 770.8711f))
-					Rotation(float3(-0.05853006f, 15.36073f, 46.04114f))
-					Scale(float3(1f, 0.9999999f, 0.9999999f))
+					Position(float3(-561.0052f, 8.293636f, -210.7469f))
+					Rotation(float3(175.6481f, -22.91936f, 133.2277f))
+					Scale(float3(1f, 1f, 1.000001f))
 			SceneObjectDynamic[24]
 			SceneObjectDynamic
 				Name: DASH01_BOARD
 				Unk0x00: renderObject, unk_RenderObject1, unk_RenderObject2, unk_RenderObject3, hasTextureScroll0, ReceiveEfbShadow
 				Unk0x04: _NULL
 				TransformTRXS
-					Position: float3(890.787f, 97.22498f, 701.1442f)
+					Position: float3(629.9167f, 22.67886f, -204.7781f)
 					Rotation: float3(0f, 0f, 0f)
 					Scale: float3(1.000001f, 1f, 1.000001f)
 					unknownOption: None
@@ -3956,18 +3956,18 @@ COLLIDER DATA
 					[11] TextureScrollField(u: 0, v: 0)
 				SkeletalAnimator (null)
 				TransformMatrix3x4
-					Position(float3(890.787f, 97.22498f, 701.1442f))
-					Rotation(float3(176.591f, 23.56769f, 132.9725f))
-					Scale(float3(1.000002f, 1f, 1.000002f))
+					Position(float3(629.9167f, 22.67886f, -204.7781f))
+					Rotation(float3(-177.643f, -21.93738f, 133.188f))
+					Scale(float3(1.000001f, 1f, 1.000002f))
 			SceneObjectDynamic[25]
 			SceneObjectDynamic
 				Name: DASH01_SIGN_CIRCLE_A_LOD
 				Unk0x00: renderObject, unk_RenderObject1, unk_RenderObject2, unk_RenderObject3, unk_5, unk_HideObject1, unk_HideObject2, alphaNoClipSelf, ReceiveEfbShadow
 				Unk0x04: _NULL
 				TransformTRXS
-					Position: float3(880.36f, 115.7517f, 706.8043f)
+					Position: float3(618.0707f, 40.38145f, -210.2818f)
 					Rotation: float3(0f, 0f, 0f)
-					Scale: float3(1.000001f, 1f, 1.000001f)
+					Scale: float3(1.000001f, 0.9999999f, 1f)
 					unknownOption: None
 					objectActiveOverride: None
 				SceneObject
@@ -4003,9 +4003,9 @@ COLLIDER DATA
 				Unk0x00: renderObject, unk_RenderObject1, unk_RenderObject2, unk_RenderObject3, unk_5, unk_HideObject1, unk_HideObject2, alphaNoClipSelf, ReceiveEfbShadow
 				Unk0x04: _NULL
 				TransformTRXS
-					Position: float3(880.36f, 115.7517f, 706.8043f)
+					Position: float3(618.0707f, 40.38145f, -210.2818f)
 					Rotation: float3(0f, 0f, 0f)
-					Scale: float3(1.000001f, 1f, 1.000001f)
+					Scale: float3(1.000001f, 0.9999999f, 1f)
 					unknownOption: None
 					objectActiveOverride: None
 				SceneObject
@@ -4041,7 +4041,7 @@ COLLIDER DATA
 				Unk0x00: renderObject, unk_RenderObject1, unk_RenderObject2, unk_RenderObject3, alphaNoClipSelf, hasTextureScroll0, hasTextureScroll1, ReceiveEfbShadow
 				Unk0x04: _NULL
 				TransformTRXS
-					Position: float3(890.787f, 97.22498f, 701.1442f)
+					Position: float3(629.9167f, 22.67886f, -204.7781f)
 					Rotation: float3(0f, 0f, 0f)
 					Scale: float3(1.000001f, 1f, 1.000001f)
 					unknownOption: None
@@ -4069,18 +4069,18 @@ COLLIDER DATA
 					[11] TextureScrollField(u: 0, v: 0)
 				SkeletalAnimator (null)
 				TransformMatrix3x4
-					Position(float3(890.787f, 97.22498f, 701.1442f))
-					Rotation(float3(176.591f, 23.56769f, 132.9725f))
-					Scale(float3(1.000002f, 1f, 1.000002f))
+					Position(float3(629.9167f, 22.67886f, -204.7781f))
+					Rotation(float3(-177.643f, -21.93738f, 133.188f))
+					Scale(float3(1.000001f, 1f, 1.000002f))
 			SceneObjectDynamic[28]
 			SceneObjectDynamic
 				Name: DASH01_BOARD
 				Unk0x00: renderObject, unk_RenderObject1, unk_RenderObject2, unk_RenderObject3, hasTextureScroll0, ReceiveEfbShadow
 				Unk0x04: _NULL
 				TransformTRXS
-					Position: float3(0.2760024f, 41.25171f, 760.4771f)
+					Position: float3(489.5099f, 95.82898f, 1097.919f)
 					Rotation: float3(0f, 0f, 0f)
-					Scale: float3(1f, 0.9999999f, 1f)
+					Scale: float3(1f, 1f, 1f)
 					unknownOption: None
 					objectActiveOverride: None
 				SceneObject
@@ -4104,18 +4104,18 @@ COLLIDER DATA
 					[11] TextureScrollField(u: 0, v: 0)
 				SkeletalAnimator (null)
 				TransformMatrix3x4
-					Position(float3(0.2760024f, 41.25171f, 760.4771f))
-					Rotation(float3(16.78052f, -0.01113253f, 43.75378f))
-					Scale(float3(1f, 0.9999999f, 1f))
+					Position(float3(489.5099f, 95.82898f, 1097.919f))
+					Rotation(float3(-164.9535f, -82.45561f, 96.5892f))
+					Scale(float3(1f, 1f, 1f))
 			SceneObjectDynamic[29]
 			SceneObjectDynamic
 				Name: DASH01_SIGN_CIRCLE_A_LOD
 				Unk0x00: renderObject, unk_RenderObject1, unk_RenderObject2, unk_RenderObject3, unk_5, unk_HideObject1, unk_HideObject2, alphaNoClipSelf, ReceiveEfbShadow
 				Unk0x04: _NULL
 				TransformTRXS
-					Position: float3(0.02190089f, 62.31351f, 754.126f)
+					Position: float3(491.1078f, 116.6598f, 1104.813f)
 					Rotation: float3(0f, 0f, 0f)
-					Scale: float3(1f, 0.9999999f, 1f)
+					Scale: float3(1f, 1f, 1f)
 					unknownOption: None
 					objectActiveOverride: None
 				SceneObject
@@ -4151,9 +4151,9 @@ COLLIDER DATA
 				Unk0x00: renderObject, unk_RenderObject1, unk_RenderObject2, unk_RenderObject3, unk_5, unk_HideObject1, unk_HideObject2, alphaNoClipSelf, ReceiveEfbShadow
 				Unk0x04: _NULL
 				TransformTRXS
-					Position: float3(0.02190089f, 62.31351f, 754.126f)
+					Position: float3(491.1078f, 116.6598f, 1104.813f)
 					Rotation: float3(0f, 0f, 0f)
-					Scale: float3(1f, 0.9999999f, 1f)
+					Scale: float3(1f, 1f, 1f)
 					unknownOption: None
 					objectActiveOverride: None
 				SceneObject
@@ -4189,9 +4189,9 @@ COLLIDER DATA
 				Unk0x00: renderObject, unk_RenderObject1, unk_RenderObject2, unk_RenderObject3, alphaNoClipSelf, hasTextureScroll0, hasTextureScroll1, ReceiveEfbShadow
 				Unk0x04: _NULL
 				TransformTRXS
-					Position: float3(0.2760027f, 41.25171f, 760.4771f)
+					Position: float3(489.5099f, 95.82898f, 1097.919f)
 					Rotation: float3(0f, 0f, 0f)
-					Scale: float3(1f, 0.9999999f, 1f)
+					Scale: float3(1f, 1f, 1f)
 					unknownOption: None
 					objectActiveOverride: None
 				SceneObject
@@ -4217,18 +4217,18 @@ COLLIDER DATA
 					[11] TextureScrollField(u: 0, v: 0)
 				SkeletalAnimator (null)
 				TransformMatrix3x4
-					Position(float3(0.2760027f, 41.25171f, 760.4771f))
-					Rotation(float3(16.78052f, -0.01113253f, 43.75378f))
-					Scale(float3(1f, 0.9999999f, 1f))
+					Position(float3(489.5099f, 95.82898f, 1097.919f))
+					Rotation(float3(-164.9535f, -82.45561f, 96.5892f))
+					Scale(float3(1f, 1f, 1f))
 			SceneObjectDynamic[32]
 			SceneObjectDynamic
 				Name: DASH01_BOARD
 				Unk0x00: renderObject, unk_RenderObject1, unk_RenderObject2, unk_RenderObject3, hasTextureScroll0, ReceiveEfbShadow
 				Unk0x04: _NULL
 				TransformTRXS
-					Position: float3(489.5099f, 95.82898f, 1097.919f)
+					Position: float3(-774.4967f, 94.87701f, 770.8711f)
 					Rotation: float3(0f, 0f, 0f)
-					Scale: float3(1f, 1f, 1f)
+					Scale: float3(1f, 0.9999999f, 1f)
 					unknownOption: None
 					objectActiveOverride: None
 				SceneObject
@@ -4252,16 +4252,16 @@ COLLIDER DATA
 					[11] TextureScrollField(u: 0, v: 0)
 				SkeletalAnimator (null)
 				TransformMatrix3x4
-					Position(float3(489.5099f, 95.82898f, 1097.919f))
-					Rotation(float3(-164.9535f, -82.45561f, 96.5892f))
-					Scale(float3(1f, 1f, 1f))
+					Position(float3(-774.4967f, 94.87701f, 770.8711f))
+					Rotation(float3(-0.05853006f, 15.36073f, 46.04114f))
+					Scale(float3(1f, 0.9999999f, 0.9999999f))
 			SceneObjectDynamic[33]
 			SceneObjectDynamic
 				Name: DASH01_SIGN_CIRCLE_A_LOD
 				Unk0x00: renderObject, unk_RenderObject1, unk_RenderObject2, unk_RenderObject3, unk_5, unk_HideObject1, unk_HideObject2, alphaNoClipSelf, ReceiveEfbShadow
 				Unk0x04: _NULL
 				TransformTRXS
-					Position: float3(491.1078f, 116.6598f, 1104.813f)
+					Position: float3(-772.5308f, 116.7818f, 771.4335f)
 					Rotation: float3(0f, 0f, 0f)
 					Scale: float3(1f, 1f, 1f)
 					unknownOption: None
@@ -4299,7 +4299,7 @@ COLLIDER DATA
 				Unk0x00: renderObject, unk_RenderObject1, unk_RenderObject2, unk_RenderObject3, unk_5, unk_HideObject1, unk_HideObject2, alphaNoClipSelf, ReceiveEfbShadow
 				Unk0x04: _NULL
 				TransformTRXS
-					Position: float3(491.1078f, 116.6598f, 1104.813f)
+					Position: float3(-772.5308f, 116.7818f, 771.4335f)
 					Rotation: float3(0f, 0f, 0f)
 					Scale: float3(1f, 1f, 1f)
 					unknownOption: None
@@ -4337,9 +4337,9 @@ COLLIDER DATA
 				Unk0x00: renderObject, unk_RenderObject1, unk_RenderObject2, unk_RenderObject3, alphaNoClipSelf, hasTextureScroll0, hasTextureScroll1, ReceiveEfbShadow
 				Unk0x04: _NULL
 				TransformTRXS
-					Position: float3(489.5099f, 95.82898f, 1097.919f)
+					Position: float3(-774.4967f, 94.87701f, 770.8711f)
 					Rotation: float3(0f, 0f, 0f)
-					Scale: float3(1f, 1f, 1f)
+					Scale: float3(1f, 0.9999999f, 1f)
 					unknownOption: None
 					objectActiveOverride: None
 				SceneObject
@@ -4365,9 +4365,9 @@ COLLIDER DATA
 					[11] TextureScrollField(u: 0, v: 0)
 				SkeletalAnimator (null)
 				TransformMatrix3x4
-					Position(float3(489.5099f, 95.82898f, 1097.919f))
-					Rotation(float3(-164.9535f, -82.45561f, 96.5892f))
-					Scale(float3(1f, 1f, 1f))
+					Position(float3(-774.4967f, 94.87701f, 770.8711f))
+					Rotation(float3(-0.05853006f, 15.36073f, 46.04114f))
+					Scale(float3(1f, 0.9999999f, 0.9999999f))
 			SceneObjectDynamic[36]
 			SceneObjectDynamic
 				Name: bezier (1)-Road-#0.0
@@ -4410,7 +4410,7 @@ COLLIDER DATA
 						[0]	Name: bezier (1)-heal-#0.1, LodDistance: 0
 				AnimationClip (null)
 				TextureScroll
-					[0] TextureScrollField(u: 0, v: -2)
+					[0] TextureScrollField(u: 0, v: 2)
 				SkeletalAnimator (null)
 				TransformMatrix3x4
 					Position(float3(0f, 0f, 0f))
@@ -4482,7 +4482,7 @@ COLLIDER DATA
 						[0]	Name: line (1)-heal-#2.1, LodDistance: 0
 				AnimationClip (null)
 				TextureScroll
-					[0] TextureScrollField(u: 0, v: -2)
+					[0] TextureScrollField(u: 0, v: 2)
 				SkeletalAnimator (null)
 				TransformMatrix3x4
 					Position(float3(0f, 0f, 0f))
