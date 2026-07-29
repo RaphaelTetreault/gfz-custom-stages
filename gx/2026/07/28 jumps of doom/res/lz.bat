@@ -1,0 +1,1 @@
+%gfz% lz-compress ./ -o -p *.tpl
